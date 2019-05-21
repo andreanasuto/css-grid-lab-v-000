@@ -10,6 +10,7 @@ body {
   display: grid;
   grid-template: [header-start] 1fr [header-end] 1fr 1fr 1fr  / repeat(3, 1fr);
   grid-gap: 5px;
+  grid-area: footer-start / 1 / footer-end / 4
   /* your properties here */
 }
 
