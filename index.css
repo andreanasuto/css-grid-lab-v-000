@@ -20,8 +20,8 @@ body {
 
 /* add the .bigItem class */
 .bigItem {
-  height: 50%;
-  width: 50%;
+  height: 100%;
+  width: 100%;
   justify-self: center;
   grid-area: 2 / 2 / 4 / 4;
 
