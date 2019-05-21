@@ -29,5 +29,5 @@ body {
 }
 
 img {
-  width: inherit;;
+  object-fit: cover;
 }
